@@ -26,9 +26,9 @@ import AnimeflixHome from './projects/AnimwflixHome.png';
 import VaidikBhramanti from "./projects/VaidikBhramantiHome.png";
 import MilkMart from "./projects/MilkMartHome.png";
 
-import estatehubLogo from ".company/EStateHub_Logo.webp";
-
+import estatehubLogo from "./company/EStateHub_Logo.webp";
 export {
+  logo,
   github,
   linkedIn,
   demo,
